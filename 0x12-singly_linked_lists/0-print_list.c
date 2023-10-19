@@ -3,8 +3,8 @@
 #include "lists.h"
 
 /**
- * print_list -  prints all the elements of a list_t list.
- * @h: placeholder for name of the list
+ * print_list - prints all the elements of a list_t list.
+ * @e: placeholder for name of the list
  * Return: the number of nodes always.
  */
 
