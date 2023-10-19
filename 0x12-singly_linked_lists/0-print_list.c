@@ -4,7 +4,7 @@
 
 /**
  * print_list - prints all the elements of a list_t list.
- * @e: placeholder for name of the list
+ * @h: placeholder for name of the list
  * Return: the number of nodes always.
  */
 
